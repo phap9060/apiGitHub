@@ -1,3 +1,5 @@
-Teste para a empresa LubySoftware onde me foi requerido fazer uma aplicação com
-chamada da API pública do GitHub e também foram passadas 10 questões de algoritmo
-que estão na pasta "Teste Algoritmo" dentro aqui mesmo do projeto.
+Projetinho que pensei em utilizar a API do GitHub para fazer um app onde é possí-
+vel consultar seus repositórios e seguidos no GitHub.
+
+Para esse projetinho foi utilizado:
+React JS + Component Styles + Context API + AXIOS

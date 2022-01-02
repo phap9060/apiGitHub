@@ -13,7 +13,7 @@ import Following from './pages/Following';
     
 
 const Routes = () => (
-    <BRouter>
+    <BRouter basename={process.env.PUBLIC_URL}>
         <Switch>
             <Route path="/" exact component={ Search } />
             <Route path="/Home" exact component={ Home } />
